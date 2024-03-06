@@ -48,4 +48,4 @@ The project is a web application for an online store. The app allows users to br
 - A simple order form with relevant fields (payment options are disabled).
 - Order summary with a list of products and total price.
 
-Thank you for reading.
+
